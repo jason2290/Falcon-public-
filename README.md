@@ -2,6 +2,9 @@
 沒啥好講的，HTML腳本適配所有Mac、Windows系統  
 下載下來雙擊打開即可  
 **聯繫作者取得權限後到[這邊](https://github.com/jason2290/Falcon)就能看到腳本**  
+**沒事就幫我洗一下推文留言感恩**  
+[推文1](https://x.com/jason2290_eth/status/1966867611578495081) | [推文2](https://x.com/jason2290_eth/status/1966867611578495081) | [推文3](https://x.com/gsai_gogogo/status/1966951049455169680)  
+
 IP推薦[這個](https://www.cloudbypass.com/pricing.html)。選擇住宅的，新註冊應該有試用
 
 ## 介面範例  
